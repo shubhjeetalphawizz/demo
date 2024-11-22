@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name":"Nord 2",
+        "price": 999,
+        "discription": "This is Discription"
+    
+    },
+    {
+        "id": 2,
+        "name":"Samsung",
+        "price": 9459,
+        "discription": "This is Discription"
+    
+    },
+    {
+        "id": 3,
+        "name":"Iphone",
+        "price": 9599,
+        "discription": "This is Discription"
+    
+    },
+    {
+        "id": 4,
+        "name":"J2",
+        "price": 9566,
+        "discription": "This is Discription"
+    
+    },
+    {
+        "id": 5,
+        "name":"Moto G",
+        "price": 456,
+        "discription": "This is Discription"
+    
+    }
+]
